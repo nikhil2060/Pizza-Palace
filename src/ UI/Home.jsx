@@ -1,6 +1,5 @@
 import { useSelector } from "react-redux";
 import CreateUser from "../features/user/CreateUser";
-import Username from "../features/user/username";
 import Button from "./Button";
 
 function Home() {
