@@ -1,5 +1,7 @@
 
-## Pizza Palace: Pizza Ordering Website
+## Pizza Palace: Your Online Pizza Ordering Hub
+
+**Link :** [Click to visit Live website](https://pizza-palace-by-nikhil.netlify.app)
 
 This project is a delightful React pizza ordering website, built with the blazing-fast Vite framework. It lets you browse through a mouthwatering selection of pizzas, add them to your cart, and submit your order with ease.
 
@@ -14,9 +16,9 @@ This project is a delightful React pizza ordering website, built with the blazin
 ### Technologies
 
 -   **Frontend:** React, Vite
--   **Data Fetching:** Rest API
+-   **Data Fetching:** API
 -   **Routing:** React Router
--   **State Management:** Redux
+-   **State Management:** Redux (optional)
 
 ### Getting Started
 
